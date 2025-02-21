@@ -1,0 +1,10 @@
+This is a simple 2D Racing Game developed using HTML5, CSS, and JavaScript. In the game, you control a car that must navigate through falling obstacles. The goal is to avoid the obstacles and keep the car moving safely across the screen. The car can be controlled using the arrow keys (Up, Down, Left, Right). If the car collides with any obstacle, the game ends, and the player is shown a "Game Over" message. The game is lightweight and can be played directly in any modern web browser.
+
+The car movement is controlled by the arrow keys: the left and right arrows move the car horizontally, while the up and down arrows move it vertically. The game includes obstacles that fall from the top of the screen, which the player must avoid in order to survive. If the car hits any of the obstacles, a collision is detected, and the game stops. The game’s background is designed to provide a simple racing effect, and the canvas element is dynamically rendered in the browser.
+
+To get started, you can easily run this game locally by downloading or cloning the repository. The project includes three main files: index.html for the structure of the game, style.css for basic styling and layout, and script.js for the game logic that controls the car and obstacles. There’s no need for additional tools or setup—just open the index.html file in your browser to start playing.
+
+The project is fully responsive, meaning it should adjust well to various screen sizes and can be played on both desktop and mobile devices. It offers a fun and engaging way to pass the time while exploring the capabilities of JavaScript, HTML5 Canvas, and CSS.
+
+How to Run the Game
+To run the game locally, you can either clone this repository or download it as a ZIP file. After downloading or cloning, simply open the index.html file in your web browser, and you'll be ready to play. The game is straightforward: use the arrow keys to control the car, avoid obstacles, and try to last as long as possible. If you hit an obstacle, the game will end and you can try again.
